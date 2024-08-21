@@ -22,9 +22,11 @@ Here's a walkthrough of implemented features:
 https://drive.google.com/file/d/1TaZCQUgB46BbHNZWG-7MLmd-BLbzxjAO/view?usp=sharing
 
 Notes
+
 I struggled with consoling values, sorting out the funded and unfunded games.
 
 License
+
 Copyright [2024] [Assyl Zhanuzak]
 
 Licensed under the Apache License, Version 2.0 (the "License");
